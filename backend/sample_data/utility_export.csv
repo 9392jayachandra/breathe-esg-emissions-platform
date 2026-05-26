@@ -1,0 +1,12 @@
+Meter ID,Billing Period Start,Billing Period End,Consumption (kWh),Unit,Site Name,Tariff
+MTR-BLR-001,2024-01-01,2024-01-31,45230,kWh,Bangalore HQ,Commercial HT
+MTR-BLR-002,2024-01-01,2024-01-31,12800,kWh,Bangalore Warehouse,Industrial LT
+MTR-MUM-001,2023-12-28,2024-01-27,33100,kWh,Mumbai Office,Commercial LT
+MTR-DEL-001,2024-01-15,2024-02-14,28750,kWh,Delhi Branch,Commercial HT
+MTR-HYD-001,2024-01-01,2024-01-31,9400,kWh,Hyderabad Lab,Commercial LT
+MTR-BLR-001,2024-02-01,2024-02-29,48900,kWh,Bangalore HQ,Commercial HT
+MTR-BLR-002,2024-02-01,2024-02-29,13200,kWh,Bangalore Warehouse,Industrial LT
+MTR-MUM-001,2024-01-28,2024-02-27,31500,kWh,Mumbai Office,Commercial LT
+MTR-DEL-001,2024-02-15,2024-03-14,26300,kWh,Delhi Branch,Commercial HT
+MTR-BLR-001,2024-03-01,2024-03-31,1500000,kWh,Bangalore HQ,Commercial HT
+MTR-CHN-001,2024-01-01,2024-01-31,18200,MWh,Chennai Plant,Industrial HT
